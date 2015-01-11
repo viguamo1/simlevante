@@ -2,6 +2,7 @@
 
 int main(){
 	printf("uuuuuu");
+	printf("uuuuuu");
 	printf("hola mundo");
 	printf("adios cuqui");
 	printf("hola mundo");
